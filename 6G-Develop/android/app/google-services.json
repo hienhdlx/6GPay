@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50470887647",
+    "firebase_url": "https://infra-agent-224616.firebaseio.com",
+    "project_id": "infra-agent-224616",
+    "storage_bucket": "infra-agent-224616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50470887647:android:87e1999aeec6059bcdc96a",
+        "android_client_info": {
+          "package_name": "com.paymentgiveaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50470887647-pb4j0fvhfom2sg611ecr78u70ke8tnj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paymentgiveaway",
+            "certificate_hash": "640ab2bae07bedc4c163f679a746f7ab7fb5d1fa"
+          }
+        },
+        {
+          "client_id": "50470887647-tmp8c2gbb8a7m6dsbhlvolmqifgngkd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTb0TznejP_Nu-rQ-22Qk1Ctzb5muJV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50470887647-tmp8c2gbb8a7m6dsbhlvolmqifgngkd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

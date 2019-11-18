@@ -1,0 +1,48 @@
+{
+  "name": "PaymentGiveAway",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start --reset-cache",
+    "test": "jest",
+    "lint": "eslint .",
+    "ios": "react-native run-ios --simulator='iPhone 11'",
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "@twotalltotems/react-native-otp-input": "^1.1.0",
+    "add": "^2.0.6",
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "react": "16.8.6",
+    "react-native": "0.60.0",
+    "react-native-axios": "^0.17.1",
+    "react-native-calendars": "^1.212.0",
+    "react-native-contacts": "^5.0.4",
+    "react-native-firebase": "^5.5.6",
+    "react-native-floating-action": "^1.19.1",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-html-to-pdf": "^0.8.0",
+    "react-native-i18n": "^2.0.15",
+    "react-native-image-crop-picker": "^0.25.3",
+    "react-native-image-picker": "^1.1.0",
+    "react-native-masked-text": "^1.13.0",
+    "react-native-status-bar-height": "^2.4.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.9.4",
+    "yarn": "^1.19.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/runtime": "^7.6.3",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
