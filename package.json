@@ -15,7 +15,7 @@
     "axios": "^0.19.0",
     "moment": "^2.24.0",
     "react": "16.8.6",
-    "react-native": "0.60.0",
+    "react-native": "0.62.3",
     "react-native-axios": "^0.17.1",
     "react-native-calendars": "^1.212.0",
     "react-native-contacts": "^5.0.4",
